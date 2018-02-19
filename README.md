@@ -9,6 +9,6 @@ https://www.kaggle.com/learn/overview
 
 
 
-## Starter Charts
+# Starter Charts
 
 ![alt text](https://github.com/tilfast/EDA/blob/master/chartStarter.jpeg " Starter charts")
